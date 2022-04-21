@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+
+}
+header{
+    padding: 16px;
+    background-color: dodgerblue;
+    color: white;
+    display: flex;
+    grid-area: header;
+    justify-content:space-between;
+        
+}
+#menu{
+    padding: 0;
+    grid-area: menu;
+}

@@ -1,0 +1,21 @@
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: aqua;
+
+}
+h2 {
+ 
+  color: blue;
+  border-style:solid;
+
+}
+p {
+  text-decoration: overline;
+  color:coral
+
+}
+#select-result{
+  color: blue;
+  border-radius: 50px;
+
+}
